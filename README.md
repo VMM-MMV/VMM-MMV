@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Text detection and removal app](https://github.com/VMM-MMV/MangaCleaner)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/VMM-MMV](https://github.com/VMM-MMV)
 
